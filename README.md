@@ -7,13 +7,13 @@ modes, a menu-driven interface, score tracking, and a custom
 asset-delivery pipeline. This release provides a ready-to-run Windows
 build, with game resources packaged and encrypted for distribution.
 
-`“The myth says that CrimsonLand is cursed, but if you reach the end, you'll read that its men are Victorious.”`
+            “THE MYTH SAYS THAT CRIMSONLAND IS CURSED, BUT IF YOU REACH THE END, YOU'LL READ THAT ITS MEN ARE VICTORIOUS.”
 
-`CrimsonLand has withstood centuries of disasters and wars. Most recently, after a brutal war where it triumphed against the Colonizers, the enemy retaliated through a horrifying plan: a viral epidemic. This outbreak has devastated the island, turning its people into zombies.`
+`CRIMSONLAND HAS WITHSTOOD CENTURIES OF DISASTERS AND WARS. MOST RECENTLY, AFTER A BRUTAL WAR WHERE IT TRIUMPHED AGAINST THE COLONIZERS, THE ENEMY RETALIATED THROUGH A HORRIFYING PLAN: A VIRAL EPIDEMIC. THIS OUTBREAK HAS DEVASTATED THE ISLAND, TURNING ITS PEOPLE INTO ZOMBIES.`
 
-`You play as a war-torn soldier —a survivor of the final battle— now forced to flee from one Safe Zone to another. Along your journey, you'll face endless dangers, encounter allies, and piece together the island’s tragic past. Eventually, you'll reunite with fellow survivors to carry out high-risk missions and reclaim your homeland from the zombie menace.`
+`YOU PLAY AS A WAR-TORN SOLDIER — A SURVIVOR OF THE FINAL BATTLE — NOW FORCED TO FLEE FROM ONE SAFE ZONE TO ANOTHER. ALONG YOUR JOURNEY, YOU'LL FACE ENDLESS DANGERS, ENCOUNTER ALLIES, AND PIECE TOGETHER THE ISLAND’S TRAGIC PAST. EVENTUALLY, YOU'LL REUNITE WITH FELLOW SURVIVORS TO CARRY OUT HIGH-RISK MISSIONS AND RECLAIM YOUR HOMELAND FROM THE ZOMBIE MENACE.`
 
->You always have two choices: Give up and let CrimsonLand fall... or survive and preserve its Great Heritage.
+              You Always Have Two Choices: Give up and Let CrimsonLand Fall... Or Survive and Preserve its Great Heritage.
 
 
 ## What's Built
