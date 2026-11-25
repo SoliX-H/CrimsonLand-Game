@@ -7,11 +7,14 @@ modes, a menu-driven interface, score tracking, and a custom
 asset-delivery pipeline. This release provides a ready-to-run Windows
 build, with game resources packaged and encrypted for distribution.
 
-> “🇹‌🇭‌🇪‌ 🇲‌🇾‌🇹‌🇭‌ 🇸‌🇦‌🇾‌🇸‌ 🇹‌🇭‌🇦‌🇹‌ 🇨‌🇷‌🇮‌🇲‌🇸‌🇴‌🇳‌🇱‌🇦‌🇳‌🇩‌ 🇮‌🇸‌ 🇨‌🇺‌🇷‌🇸‌🇪‌🇩‌, 🇧‌🇺‌🇹‌ 🇮‌🇫‌ 🇾‌🇴‌🇺‌ 🇷‌🇪‌🇦‌🇨‌🇭‌ 🇹‌🇭‌🇪‌ 🇪‌🇳‌🇩‌, 🇾‌🇴‌🇺‌'🇱‌🇱‌ 🇷‌🇪‌🇦‌🇩‌ 🇹‌🇭‌🇦‌🇹‌ 🇮‌🇹‌🇸‌ 🇲‌🇪‌🇳‌ 🇦‌🇷‌🇪‌ 🇻‌🇮‌🇨‌🇹‌🇴‌🇷‌🇮‌🇴‌🇺‌🇸‌.”
-🇨‌🇷‌🇮‌🇲‌🇸‌🇴‌🇳‌🇱‌🇦‌🇳‌🇩‌ 🇭‌🇦‌🇸‌ 🇼‌🇮‌🇹‌🇭‌🇸‌🇹‌🇴‌🇴‌🇩‌ 🇨‌🇪‌🇳‌🇹‌🇺‌🇷‌🇮‌🇪‌🇸‌ 🇴‌🇫‌ 🇩‌🇮‌🇸‌🇦‌🇸‌🇹‌🇪‌🇷‌🇸‌ 🇦‌🇳‌🇩‌ 🇼‌🇦‌🇷‌🇸‌. 🇲‌🇴‌🇸‌🇹‌ 🇷‌🇪‌🇨‌🇪‌🇳‌🇹‌🇱‌🇾‌, 🇦‌🇫‌🇹‌🇪‌🇷‌ 🇦‌ 🇧‌🇷‌🇺‌🇹‌🇦‌🇱‌ 🇼‌🇦‌🇷‌ 🇼‌🇭‌🇪‌🇷‌🇪‌ 🇮‌🇹‌ 🇹‌🇷‌🇮‌🇺‌🇲‌🇵‌🇭‌🇪‌🇩‌ 🇦‌🇬‌🇦‌🇮‌🇳‌🇸‌🇹‌ 🇹‌🇭‌🇪‌ 🇨‌🇴‌🇱‌🇴‌🇳‌🇮‌🇿‌🇪‌🇷‌🇸‌, 🇹‌🇭‌🇪‌ 🇪‌🇳‌🇪‌🇲‌🇾‌ 🇷‌🇪‌🇹‌🇦‌🇱‌🇮‌🇦‌🇹‌🇪‌🇩‌ 🇹‌🇭‌🇷‌🇴‌🇺‌🇬‌🇭‌ 🇦‌ 🇭‌🇴‌🇷‌🇷‌🇮‌🇫‌🇾‌🇮‌🇳‌🇬‌ 🇵‌🇱‌🇦‌🇳‌: 🇦‌ 🇻‌🇮‌🇷‌🇦‌🇱‌ 🇪‌🇵‌🇮‌🇩‌🇪‌🇲‌🇮‌🇨‌. 🇹‌🇭‌🇮‌🇸‌ 🇴‌🇺‌🇹‌🇧‌🇷‌🇪‌🇦‌🇰‌ 🇭‌🇦‌🇸‌ 🇩‌🇪‌🇻‌🇦‌🇸‌🇹‌🇦‌🇹‌🇪‌🇩‌ 🇹‌🇭‌🇪‌ 🇮‌🇸‌🇱‌🇦‌🇳‌🇩‌, 🇹‌🇺‌🇷‌🇳‌🇮‌🇳‌🇬‌ 🇮‌🇹‌🇸‌ 🇵‌🇪‌🇴‌🇵‌🇱‌🇪‌ 🇮‌🇳‌🇹‌🇴‌ 🇿‌🇴‌🇲‌🇧‌🇮‌🇪‌🇸‌.
-🇾‌🇴‌🇺‌ 🇵‌🇱‌🇦‌🇾‌ 🇦‌🇸‌ 🇦‌ 🇼‌🇦‌🇷‌-🇹‌🇴‌🇷‌🇳‌ 🇸‌🇴‌🇱‌🇩‌🇮‌🇪‌🇷‌—🇦‌ 🇸‌🇺‌🇷‌🇻‌🇮‌🇻‌🇴‌🇷‌ 🇴‌🇫‌ 🇹‌🇭‌🇪‌ 🇫‌🇮‌🇳‌🇦‌🇱‌ 🇧‌🇦‌🇹‌🇹‌🇱‌🇪‌—🇳‌🇴‌🇼‌ 🇫‌🇴‌🇷‌🇨‌🇪‌🇩‌ 🇹‌🇴‌ 🇫‌🇱‌🇪‌🇪‌ 🇫‌🇷‌🇴‌🇲‌ 🇴‌🇳‌🇪‌ 🇸‌🇦‌🇫‌🇪‌ 🇿‌🇴‌🇳‌🇪‌ 🇹‌🇴‌ 🇦‌🇳‌🇴‌🇹‌🇭‌🇪‌🇷‌. 🇦‌🇱‌🇴‌🇳‌🇬‌ 🇾‌🇴‌🇺‌🇷‌ 🇯‌🇴‌🇺‌🇷‌🇳‌🇪‌🇾‌, 🇾‌🇴‌🇺‌'🇱‌🇱‌ 🇫‌🇦‌🇨‌🇪‌ 🇪‌🇳‌🇩‌🇱‌🇪‌🇸‌🇸‌ 🇩‌🇦‌🇳‌🇬‌🇪‌🇷‌🇸‌, 🇪‌🇳‌🇨‌🇴‌🇺‌🇳‌🇹‌🇪‌🇷‌ 🇦‌🇱‌🇱‌🇮‌🇪‌🇸‌, 🇦‌🇳‌🇩‌ 🇵‌🇮‌🇪‌🇨‌🇪‌ 🇹‌🇴‌🇬‌🇪‌🇹‌🇭‌🇪‌🇷‌ 🇹‌🇭‌🇪‌ 🇮‌🇸‌🇱‌🇦‌🇳‌🇩‌’🇸‌ 🇹‌🇷‌🇦‌🇬‌🇮‌🇨‌ 🇵‌🇦‌🇸‌🇹‌. 🇪‌🇻‌🇪‌🇳‌🇹‌🇺‌🇦‌🇱‌🇱‌🇾‌, 🇾‌🇴‌🇺‌'🇱‌🇱‌ 🇷‌🇪‌🇺‌🇳‌🇮‌🇹‌🇪‌ 🇼‌🇮‌🇹‌🇭‌ 🇫‌🇪‌🇱‌🇱‌🇴‌🇼‌ 🇸‌🇺‌🇷‌🇻‌🇮‌🇻‌🇴‌🇷‌🇸‌ 🇹‌🇴‌ 🇨‌🇦‌🇷‌🇷‌🇾‌ 🇴‌🇺‌🇹‌ 🇭‌🇮‌🇬‌🇭‌-🇷‌🇮‌🇸‌🇰‌ 🇲‌🇮‌🇸‌🇸‌🇮‌🇴‌🇳‌🇸‌ 🇦‌🇳‌🇩‌ 🇷‌🇪‌🇨‌🇱‌🇦‌🇮‌🇲‌ 🇾‌🇴‌🇺‌🇷‌ 🇭‌🇴‌🇲‌🇪‌🇱‌🇦‌🇳‌🇩‌ 🇫‌🇷‌🇴‌🇲‌ 🇹‌🇭‌🇪‌ 🇿‌🇴‌🇲‌🇧‌🇮‌🇪‌ 🇲‌🇪‌🇳‌🇦‌🇨‌🇪‌.
+`“The myth says that CrimsonLand is cursed, but if you reach the end, you'll read that its men are Victorious.”`
 
->🇾‌🇴‌🇺‌ 🇦‌🇱‌🇼‌🇦‌🇾‌🇸‌ 🇭‌🇦‌🇻‌🇪‌ 🇹‌🇼‌🇴‌ 🇨‌🇭‌🇴‌🇮‌🇨‌🇪‌🇸‌: 🇬‌🇮‌🇻‌🇪‌ 🇺‌🇵‌ 🇦‌🇳‌🇩‌ 🇱‌🇪‌🇹‌ 🇨‌🇷‌🇮‌🇲‌🇸‌🇴‌🇳‌🇱‌🇦‌🇳‌🇩‌ 🇫‌🇦‌🇱‌🇱‌... 🇴‌🇷‌ 🇸‌🇺‌🇷‌🇻‌🇮‌🇻‌🇪‌ 🇦‌🇳‌🇩‌ 🇵‌🇷‌🇪‌🇸‌🇪‌🇷‌🇻‌🇪‌ 🇮‌🇹‌🇸‌ 🇬‌🇷‌🇪‌🇦‌🇹‌ 🇭‌🇪‌🇷‌🇮‌🇹‌🇦‌🇬‌🇪‌.
+`CrimsonLand has withstood centuries of disasters and wars. Most recently, after a brutal war where it triumphed against the Colonizers, the enemy retaliated through a horrifying plan: a viral epidemic. This outbreak has devastated the island, turning its people into zombies.`
+
+`You play as a war-torn soldier —a survivor of the final battle— now forced to flee from one Safe Zone to another. Along your journey, you'll face endless dangers, encounter allies, and piece together the island’s tragic past. Eventually, you'll reunite with fellow survivors to carry out high-risk missions and reclaim your homeland from the zombie menace.`
+
+>You always have two choices: Give up and let CrimsonLand fall... or survive and preserve its Great Heritage.
+
 
 ## What's Built
 
